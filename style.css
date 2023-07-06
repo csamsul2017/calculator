@@ -1,0 +1,14 @@
+.calculator {
+    max-width: 768px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.display {
+    border: 1px solid black;
+}
+
+.keys {
+    margin-top: 2px;
+    border: 1px solid black;
+}
